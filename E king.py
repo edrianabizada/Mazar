@@ -100,8 +100,8 @@ print'                                        '
 jalan("\x1b[1;92mINPUT USERNAME & PASSWORD")
 print 25* '\033[1;96m-'
 print'                                        '
-CorrectUsername = "kayhan"
-CorrectPasscode = "mazari"
+CorrectUsername = "edris"
+CorrectPasscode = "mazar"
 
 loop = 'true'
 while (loop == 'true'):
